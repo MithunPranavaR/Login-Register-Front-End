@@ -17,7 +17,7 @@ This is a simple React-based frontend for a login and registration system. It al
 ### 1️⃣ Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/login-register-frontend.git
+git clone https://github.com/MithunPranavaR/Login-Register-Front-End.git
 cd login-register-frontend
 ### 2️⃣ Install Dependencies
 npm install
